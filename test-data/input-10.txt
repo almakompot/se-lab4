@@ -1,0 +1,4 @@
+# ALL módban, ha az egyik tár hibás, de a másik sikeres, akkor is sikeres az eredmény
+GT4500,1,0,1,1
+TORPEDO,ALL
+

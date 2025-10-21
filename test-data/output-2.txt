@@ -1,0 +1,4 @@
+# SINGLE módban a tüzelések alternálva történnek
+SUCCESS
+SUCCESS
+SUCCESS

@@ -1,0 +1,3 @@
+# Ha a tüzelő tár hibát jelez, a másik tár nem kerül megpróbálásra
+GT4500,1,1,1,0
+TORPEDO,SINGLE
