@@ -1,0 +1,3 @@
+# ALL módban, ha mindkét tár hibás, az eredmény sikertelen
+GT4500,1,1,1,1
+TORPEDO,ALL
